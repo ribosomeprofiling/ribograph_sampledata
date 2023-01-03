@@ -1,6 +1,6 @@
 # Sample Data Files for RiboGraph
 
-This repository contains sample ribo and gzipped fasta files for the RiboGraph browser.
+This repository contains sample ribo and gzipped fasta files for the [RiboGraph](https://github.com/ribosomeprofiling/ribograph) browser.
 
 Users can either clone this repository or download the individual files to use in RiboGraph.
 
