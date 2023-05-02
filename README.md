@@ -14,12 +14,12 @@ We provide ribo and gzipped fasta files.
 
 Ribo files come from published ribosome profiling data. They contain ribosome footprint coverage for a range of footprint lengths at nucleotide resolution. For details, see [the documentation](https://ribopy.readthedocs.io/en/latest/ribo_file_format.html).
 
-Human: [GSM3323389.ribo](https://github.com/ribosomeprofiling/ribograph_sampledata/raw/main/human/GSM3323389.ribo), [GSM3323390.ribo](https://github.com/ribosomeprofiling/ribograph_sampledata/raw/main/human/GSM3323390.ribo)
+Human: [GSM3323389.ribo](https://github.com/ribosomeprofiling/ribograph_sampledata/raw/main/human/GSM3323389.ribo), [GSM3323390.ribo](https://github.com/ribosomeprofiling/ribograph_sampledata/raw/main/human/GSM3323390.ribo), [GSE105175.ribo](https://github.com/ribosomeprofiling/ribograph_sampledata/raw/main/human/GSE105175.ribo) (contains 6 samples)
 
-Mouse: [GSE102318.ribo](https://github.com/ribosomeprofiling/ribograph_sampledata/raw/main/mouse/GSE102318.ribo) (contains two samples)
+Mouse: [GSE102318.ribo](https://github.com/ribosomeprofiling/ribograph_sampledata/raw/main/mouse/GSE102318.ribo) (contains 2 samples), [GSE105147.ribo](https://github.com/ribosomeprofiling/ribograph_sampledata/raw/main/mouse/GSE105147.ribo) (contains 7 samples)
 
 More detailed information about these samples can be found in GEO; 
-[GSE118239](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE118239) for human samples and [GSE102318](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE102318) for mouse samples.
+[GSE118239](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE118239) and [GSE105175](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE105175) for human samples and [GSE102318](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE102318) and [GSE105147](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE105147) for mouse samples.
 
 ## Fasta Files
 
